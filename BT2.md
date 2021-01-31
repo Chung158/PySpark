@@ -20,6 +20,7 @@
 - Tạo từ một tập hợp dữ liệu có sẵn trong ngôn ngữ sử dụng như Java, Python, Scala.
 - Lấy từ dataset hệ thống lưu trữ bên ngoài như HDFS, Hbase hoặc các cơ sở dữ liệu quan hệ.
 
-  <p>Tham khảo: </p>
-    [Apache Spark RDD](https://laptrinh.vn/books/apache-spark/page/apache-spark-rdd).
+ Tham khảo:
+  * [Apache Spark RDD](https://laptrinh.vn/books/apache-spark/page/apache-spark-rdd).
+  
 # 3.Spark DataFrame:
