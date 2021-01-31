@@ -37,4 +37,7 @@ Chúng ta có thể nói rằng DataFrames không là gì, ngoài các cấu tr�
         DataFrames đã hỗ trợ cho một loạt các định dạng và nguồn dữ liệu, chúng ta sẽ xem xét vấn đề này sau trong hướng dẫn Pyspark DataFrames này. Họ có thể lấy dữ liệu từ nhiều nguồn khác nhau.
  4. Hỗ trợ nhiều ngôn ngữ: 
         Nó có hỗ trợ API cho các ngôn ngữ khác nhau như Python, R, Scala, Java, giúp mọi người có nền tảng lập trình khác nhau dễ sử dụng hơn.
-    
+
+Tham khảo:
+ * [Hướng dẫn PySpark DataFrame: Giới thiệu về DataFrames](https://helpex.vn/article/huong-dan-pyspark-dataframe-gioi-thieu-ve-dataframes-5c6b21e6ae03f628d053c29e)
+ * [Xử lý dữ liệu với Spark Dataframe](https://codetudau.com/xu-ly-du-lieu-voi-spark-dataframe/index.html)
